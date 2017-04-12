@@ -1,0 +1,6 @@
+c:\users\projects\documents\visual studio 2017\Projects\BinaryGame\BinaryGame\bin\Debug\BinaryGame.exe.config
+c:\users\projects\documents\visual studio 2017\Projects\BinaryGame\BinaryGame\bin\Debug\BinaryGame.exe
+c:\users\projects\documents\visual studio 2017\Projects\BinaryGame\BinaryGame\bin\Debug\BinaryGame.pdb
+c:\users\projects\documents\visual studio 2017\Projects\BinaryGame\BinaryGame\obj\Debug\BinaryGame.csprojResolveAssemblyReference.cache
+c:\users\projects\documents\visual studio 2017\Projects\BinaryGame\BinaryGame\obj\Debug\BinaryGame.exe
+c:\users\projects\documents\visual studio 2017\Projects\BinaryGame\BinaryGame\obj\Debug\BinaryGame.pdb
